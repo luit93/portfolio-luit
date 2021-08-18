@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Col, Row, Button } from "react-bootstrap";
 import { TopNavBar } from "../top-nav-bar/TopNavBar";
 import "./hero.style.css";
-import { Section } from "../sections/skills/Skills";
+
 import myImg from "../../assets/img/luit.png";
 
 export const Hero = () => {
@@ -17,9 +17,9 @@ export const Hero = () => {
             </div>
           </Col>
           <Col md="7">
-            <div className="info mt-5">
-              <h1>Hi, I'm Luit</h1>
-              <p>Lorem21 fkhdkhkf dhfkdhkfhdk hjkdhfkd</p>
+            <div className="info mt-5 fs-3 fw-bold">
+              <h1 className="fs-1">Hi, I'm Luit</h1>
+              <p>Lorem21 </p>
               <div>
                 <Button variant="danger" sm>
                   Hire me!

@@ -1,7 +1,14 @@
 #skills {
-  background: cornflowerblue;
+  background: rgb(189, 130, 57);
 }
 
+.info {
+  color: cornsilk;
+}
+#about {
+  background: rgba(184, 91, 11, 0.776);
+  color: black;
+}
 .skills-list {
   font-size: 3rem;
   margin: 2rem;
