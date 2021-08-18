@@ -1,0 +1,6 @@
+.navbar-nav a {
+  color: var(--main-color-2) !important;
+}
+.navbar-nav a:hover {
+  color: var(--main-color) !important;
+}

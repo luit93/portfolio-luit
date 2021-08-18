@@ -1,9 +1,14 @@
-import logo from "./logo.svg";
 import { Hero } from "./components/hero/Hero";
+import { Skills } from "./components/sections/skills/Skills";
 import "./App.css";
 
 function App() {
-  return <div>h3h3h3</div>;
+  return (
+    <div>
+      <Hero />
+      <Skills />
+    </div>
+  );
 }
 
 export default App;
