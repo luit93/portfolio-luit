@@ -8,7 +8,7 @@ export const Contact = () => {
         <Row>
           <Col className="d-flex justify-content-between">
             <a href="https://github.com/luit93" target=" blank">
-              <i class="fab fa-github-alt"></i>>
+              <i class="fab fa-github-alt"></i>
             </a>
             <a href="https://www.linkedin.com/in/luitsaikia/" target=" blank">
               <i class="fab fa-linkedin-in"></i>
