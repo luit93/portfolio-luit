@@ -9,6 +9,9 @@
   background: rgba(184, 91, 11, 0.776);
   color: black;
 }
+#contact {
+  font-size: 4rem;
+}
 .skills-list {
   font-size: 3rem;
   margin: 2rem;
