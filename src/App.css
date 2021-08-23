@@ -1,7 +1,9 @@
 #skills {
   background: rgb(189, 130, 57);
 }
-
+.hero {
+  min-height: 100vh;
+}
 .info {
   color: cornsilk;
 }
@@ -15,4 +17,8 @@
 .skills-list {
   font-size: 3rem;
   margin: 2rem;
+}
+
+.main-children {
+  min-height: 87vh;
 }
