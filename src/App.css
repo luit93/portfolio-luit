@@ -11,6 +11,10 @@
   background: rgba(184, 91, 11, 0.776);
   color: black;
 }
+#tsparticles {
+  position: absolute;
+  z-index: -1;
+}
 #contact {
   font-size: 4rem;
 }
